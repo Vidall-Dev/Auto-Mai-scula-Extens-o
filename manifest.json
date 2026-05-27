@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Auto Maiúscula",
+  "version": "1.0",
+  "description": "Coloca maiúscula automaticamente no início das frases no chat, ignorando campos sensíveis. FOI FEITO POR KAIQUE VIDAAAAL (VIDALL-DEV)",
+  "author": {
+    "email": "vidall-dev@seila.com"
+  },
+  "host_permissions": ["<all_urls>"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
