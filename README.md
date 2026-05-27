@@ -2,7 +2,7 @@ Para usar a extensão, siga os passos abaixo:
 
 ### 1️⃣ Baixe a extensão
 Clique no link abaixo para baixar o arquivo ZIP:  
-[📥 **Baixar ZIP**](https://github.com/Vidall-Dev/Auto-Mai-scula-Extens-o/releases/download/v1.0/auto_maiuscula.zip)
+[📥 **Baixar ZIP**](https://github.com/Vidall-Dev/Auto-Mai-scula-Extens-o/releases/download/V2/auto_maiusculaV2.zip)
 
 ### 2️⃣ Extraia o ZIP
 Após o download, extraia o conteúdo do arquivo ZIP para uma pasta no seu computador.
